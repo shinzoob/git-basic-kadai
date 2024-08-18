@@ -1,0 +1,2 @@
+7b85d76 (HEAD -> main, origin/main) 日本語訳を追加
+ef23a88 hello_world.txtを追加
