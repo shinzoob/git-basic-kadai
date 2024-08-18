@@ -1,3 +1,4 @@
+Step1.
 echo "# git_challenge" >> README.md
 git init
 git add README.md
@@ -6,8 +7,12 @@ git branch -M main
 git remote add origin https://github.com/shinzoob/git_challenge.git
 git push -u origin main
 
+
+Step2.
 echo "Hello, world!" >> hello_world.txt
 
+
+Step3.
 git add hello_world.txt
 git commit -m 'hello_world.txtを追加'
 git push
@@ -17,3 +22,9 @@ echo "こんにちは、世界！" >> hello_world.txt
 git add hello_world.txt
 git commit -m '日本語訳を追加'
 git push
+
+
+Step4.
+b3b9c96 (HEAD -> origin, origin/main) 日本語訳を追加
+3b699e1 hello_world.txtを追加
+7464302 first commit
