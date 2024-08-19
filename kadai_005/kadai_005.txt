@@ -25,6 +25,7 @@ git push
 
 
 Step4.
+git log --oneline
 b3b9c96 (HEAD -> origin, origin/main) 日本語訳を追加
 3b699e1 hello_world.txtを追加
 7464302 first commit
